@@ -1,0 +1,16 @@
+{
+    "name": "name",
+    "description": "desc",
+    "require-dev": {
+        "phalcon/devtools": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Andrey Zhilin",
+            "email": "a.zhilin@webinar.ru"
+        }
+    ],
+    "require": {
+        "phalcon/incubator": "^2.0"
+    }
+}
